@@ -1,0 +1,6 @@
+stofish
+env
+*.db
+*.sql
+*.bin
+download/*.pgn
